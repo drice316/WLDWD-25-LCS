@@ -1,5 +1,5 @@
-![Wildwood Logo](/Images/WhiteWildwoodLogo.png?raw=true "Wildwood")
-# WLDWD-25-ACS
+![Wildwood Logo](/images/WhiteWildwoodLogo.png?raw=true "Wildwood")
+# WLDWD-25-LCS
 Wildwood Mining Town 2025 Lighting Control System (Mosaic)
 
 ## Designer Version
